@@ -1,0 +1,19 @@
+.container-table {
+  margin-top: 5%;
+}
+
+.container-table h3 {
+  background: #ff3300;
+  padding: 2%;
+  color: #fff;
+}
+
+.img-perfil {
+  width: 40px;
+  border: 1px solid #ff3300;
+  border-radius: 3px;
+}
+
+.selectable {
+  cursor: pointer;
+}
